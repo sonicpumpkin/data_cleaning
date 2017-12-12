@@ -1,0 +1,79 @@
+# Code Book
+
+This code book provided details on the variables in `tidydata.txt` file.
+
+* SubjectID                                   
+* ActivityName                                
+* ActivityID                               
+* TimeBodyAccelerometermeanX                  
+* TimeBodyAccelerometermeanY                  
+* TimeBodyAccelerometermeanZ               
+* TimeBodyAccelerometerstdX                   
+* TimeBodyAccelerometerstdY                   
+* TimeBodyAccelerometerstdZ                 
+* TimeGravityAccelerometermeanX               
+* TimeGravityAccelerometermeanY               
+* TimeGravityAccelerometermeanZ             
+* TimeGravityAccelerometerstdX               
+* TimeGravityAccelerometerstdY                
+* TimeGravityAccelerometerstdZ               
+* TimeBodyAccelerometerJerkmeanX              
+* TimeBodyAccelerometerJerkmeanY              
+* TimeBodyAccelerometerJerkmeanZ             
+* TimeBodyAccelerometerJerkstdX               
+* TimeBodyAccelerometerJerkstdY               
+* TimeBodyAccelerometerJerkstdZ              
+* TimeBodyGyroscopemeanX                      
+* TimeBodyGyroscopemeanY                      
+* TimeBodyGyroscopemeanZ                     
+* TimeBodyGyroscopestdX                       
+* TimeBodyGyroscopestdY                       
+* TimeBodyGyroscopestdZ                     
+* TimeBodyGyroscopeJerkmeanX                  
+* TimeBodyGyroscopeJerkmeanY                  
+* TimeBodyGyroscopeJerkmeanZ                 
+* TimeBodyGyroscopeJerkstdX                   
+* TimeBodyGyroscopeJerkstdY                   
+* TimeBodyGyroscopeJerkstdZ                 
+* TimeBodyAccelerometerMagnitudemean          
+* TimeBodyAccelerometerMagnitudestd           
+* TimeGravityAccelerometerMagnitudemean     
+* TimeGravityAccelerometerMagnitudestd        
+* TimeBodyAccelerometerJerkMagnitudemean      
+* TimeBodyAccelerometerJerkMagnitudestd     
+* TimeBodyGyroscopeMagnitudemean              
+* TimeBodyGyroscopeMagnitudestd               
+* TimeBodyGyroscopeJerkMagnitudemean         
+* TimeBodyGyroscopeJerkMagnitudestd           
+* FrequencyBodyAccelerometermeanX             
+* FrequencyBodyAccelerometermeanY           
+* FrequencyBodyAccelerometermeanZ             
+* FrequencyBodyAccelerometerstdX              
+* FrequencyBodyAccelerometerstdY             
+* FrequencyBodyAccelerometerstdZ              
+* FrequencyBodyAccelerometerJerkmeanX         
+* FrequencyBodyAccelerometerJerkmeanY       
+* FrequencyBodyAccelerometerJerkmeanZ         
+* FrequencyBodyAccelerometerJerkstdX          
+* FrequencyBodyAccelerometerJerkstdY         
+* FrequencyBodyAccelerometerJerkstdZ          
+* FrequencyBodyGyroscopemeanX                 
+* FrequencyBodyGyroscopemeanY              
+* FrequencyBodyGyroscopemeanZ                 
+* FrequencyBodyGyroscopestdX                  
+* FrequencyBodyGyroscopestdY                 
+* FrequencyBodyGyroscopestdZ                  
+* FrequencyBodyAccelerometerMagnitudemean     
+* FrequencyBodyAccelerometerMagnitudestd
+* FrequencyBodyAccelerometerJerkMagnitudemean
+* FrequencyBodyAccelerometerJerkMagnitudestd  
+* FrequencyBodyGyroscopeMagnitudemean       
+* FrequencyBodyGyroscopeMagnitudestd          
+* FrequencyBodyGyroscopeJerkMagnitudemean     
+* FrequencyBodyGyroscopeJerkMagnitudestd 
+* `WALKING` (ID `1`): activity type was walking
+* `WALKING_UPSTAIRS` (ID `2`): activity type was walking up a staircase during the test
+* `WALKING_DOWNSTAIRS` (ID `3`): activity type was walking down a staircase during the test
+* `SITTING` (ID `4`): activity type was sitting during the test
+* `STANDING` (ID `5`): activity type was standing during the test
+* `LAYING` (ID `6`): activity type was laying down during the test
